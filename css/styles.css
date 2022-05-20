@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 80px;
+    font-family: sans-serif;
+    color: ;
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+p{
+    margin-top: 50px;
+}
